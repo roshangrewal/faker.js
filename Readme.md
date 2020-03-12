@@ -9,10 +9,15 @@
 [![OpenCollective](https://opencollective.com/fakerjs/backers/badge.svg)](#backers)
 [![OpenCollective](https://opencollective.com/fakerjs/sponsors/badge.svg)](#sponsors)
 ## Team Member:
-[@roshangrewal] (https://github.com/roshangrewal)
-[@Aniket-ap] (https://github.com/Aniket-ap)
-[@Nagendrababu452] (https://github.com/Nagendrababu452)
-[@skmohinudd] (https://github.com/skmohinudd)
+
+[[@roshangrewal] 
+(https://github.com/roshangrewal)]
+[[@Aniket-ap] 
+(https://github.com/Aniket-ap)]
+[[@Nagendrababu452] 
+(https://github.com/Nagendrababu452)]
+[[@skmohinudd] 
+(https://github.com/skmohinudd)]
 
 ## Demo
 
